@@ -14,7 +14,9 @@ gcc -o lab4_optimized.out  -fopenmp lab4_optimized.c  data.c matrix.c time.c
 ```
 
 ### How to execute after compiling
+```bash
 ./lab4_<select_type>.out <matrix_size>
+```
 
 ### Output
 When executed, the program outputs the time taken to complete.
