@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d2518ef916c4d5148811b7a6487273fd
+timeCreated: 1485776388
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Brick: {fileID: 1299333875439340, guid: 958a4dfe32fa858448e20b5c62c6fc98, type: 2}
+  - CoinPack: {fileID: 1029568376439528, guid: d9c5b13c53d0d3b4b945ac4fcaebd0cc, type: 2}
+  - LifePack: {fileID: 1292378860835812, guid: 69d9b1d44efadb943b6cdc1ed82d0624, type: 2}
+  - Stone: {fileID: 1472700343761758, guid: 987049dd8790b764f9abc8028d1429c9, type: 2}
+  - EnemyTank: {fileID: 1074676271931062, guid: d80669c32c177c1418e9512bddcd0a46,
+      type: 2}
+  - PlayerTank: {fileID: 1009753328465774, guid: 98569860345975d41ad263be89801d9b,
+      type: 2}
+  - Water: {fileID: 1635162255270710, guid: 574540aeedff698449bfa767bc0ec415, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

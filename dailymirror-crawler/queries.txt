@@ -1,0 +1,19 @@
+1. title:"Dambatenne Tea Factory" // phrase search
+
+2. title:"Pot" AND location_country:"Sri" // aggregate queries
+
+3. title:"Dambatenne Factory"~2 // proximity queries
+
+4. location_town:ba* // wildcard
+
+5. location_country:"Sri Lanka" // phrase search
+
+6. location_town:colombo //
+
+7. title:polo* // wildcard
+
+8. Nearby:jet* // wildcard
+
+9. Nearby:jetving~1 // spell correction
+
+10. location_town:ban* AND  Tag_words:tea* // wildcard and aggregate 
